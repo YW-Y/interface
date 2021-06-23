@@ -1,56 +1,56 @@
 {
   "header": {
-    "swap": "Swap",
-    "pool": "Pool",
-    "newPng": "New PNG",
-    "oldPng": "Old PNG",
-    "vote": "Vote",
-    "charts": "Charts",
-    "forum": "Forum",
-    "pngBreakDown": "Your PNG Breakdown",
-    "balance": "Balance: ",
-    "unclaimed": "Unclaimed: ",
-    "pngPrice": "PNG price:",
-    "pngCirculation": "PNG in circulation:",
-    "totalSupply": "Total Supply",
-    "makeSureURLWarning": "Make sure the URL is",
-    "alwaysMakeSureWarning": "Always make sure the URL is",
-    "bookmarkIt": "bookmark it to be safe."
+    "swap": "兌換",
+    "pool": "资金池",
+    "newPng": "新的 PNG",
+    "oldPng": "旧的 PNG",
+    "vote": "投票",
+    "charts": "图表",
+    "forum": "论坛区",
+    "pngBreakDown": "你的 PNG 細項",
+    "balance": "资产: ",
+    "unclaimed": "未领取: ",
+    "pngPrice": "PNG 价格:",
+    "pngCirculation": "流通中的PNG :",
+    "totalSupply": "总供应量",
+    "makeSureURLWarning": "确保 URL 是",
+    "alwaysMakeSureWarning": "总是确保 URL 是",
+    "bookmarkIt": "将其加入书签以确保安全。"
   },
   "accountDetails": {
-    "connectedWith": "Connected with ",
-    "account": "Account",
-    "disconnect": "Disconnect",
-    "change": "Change",
-    "copy": "Copy Address",
-    "viewExplorer": "View on the C-Chain Explorer",
-    "clearAll": "(clear all)",
-    "transactionAppear": "Your transactions will appear here...",
-    "recentTransactions": "Recent Transactions",
-    "copied": "Copied"
+    "connectedWith": "与连结 ",
+    "account": "帐户",
+    "disconnect": "登出帐户",
+    "change": "更改",
+    "copy": "复制地址",
+    "viewExplorer": "在 C-Chain Explorer 上查看",
+    "clearAll": "(清除所有)",
+    "transactionAppear": "您的交易将显示在此处...",
+    "recentTransactions": "近期的交易",
+    "copied": "已复制"
   },
   "addressInputPanel": {
-    "recipient": "Recipient",
-    "viewExplorer": "(View on Avalanche C-Chain Explorer)",
-    "walletAddress": "Wallet Address"
+    "recipient": "接收者",
+    "viewExplorer": "(在 Avalanche C-Chain Explorer 上查看)",
+    "walletAddress": "钱包地址"
   },
   "currencyInputPanel": {
-    "selectToken": "Select a token",
-    "balance": "Balance: ",
-    "max": "MAX",
-    "to": "To"
+    "selectToken": "选择一个代币",
+    "balance": "资产: ",
+    "max": "最大值",
+    "to": "給"
   },
   "earn": {
-    "claimAccumulated": "Claim accumulated PNG rewards",
-    "connectWallet": "Connect Wallet",
-    "enterAmount": "Enter an amount",
-    "unclaimedPng": "Unclaimed PNG",
-    "claim": "Claim",
-    "liquityRemainsPool": "When you claim without withdrawing your liquidity remains in the mining pool.",
+    "claimAccumulated": "领取累积的 PNG 奖励",
+    "connectWallet": "连接钱包",
+    "enterAmount": "输入金额",
+    "unclaimedPng": "未領取的 PNG",
+    "claim": "领取",
+    "liquityRemainsPool": "当您在不提取LP的情况下领取奖励，您的流动性仍留在矿池中。",
     "png": "PNG",
-    "claiming": "Claiming",
-    "transactionSubmitted": "Transaction Submitted",
-    "claimedPng": "Claimed PNG!",
+    "claiming": "领取中",
+    "transactionSubmitted": "提交交易",
+    "claimedPng": "已领取 PNG!",
     "manage": "Manage",
     "deposit": "Deposit",
     "poolRate": "Pool rate",
@@ -371,7 +371,7 @@
     "removeSend": "- Remove send",
     "price": "Price",
     "slippageTolerance": "Slippage Tolerance",
-    "connectWallet": "Connect Wallet",
+    "connectWallet": "连接钱包",
     "insufficientLiquidity": "Insufficient liquidity for this trade.",
     "wrap": "Wrap",
     "unwrap": "Unwrap",
@@ -413,28 +413,28 @@
     "proposer": "Proposer"
   },
   "swapHooks": {
-    "connectWallet": "Connect Wallet",
-    "enterAmount": "Enter an amount",
-    "selectToken": "Select a token",
-    "enterRecipient": "Enter a recipient",
-    "invalidRecipient": "Invalid recipient",
-    "insufficient": "Insufficient ",
-    "balance": " balance"
+    "connectWallet": "连接钱包",
+    "enterAmount": "输入金额",
+    "selectToken": "选择一个代币",
+    "enterRecipient": "输入收件人",
+    "invalidRecipient": "收件人无效",
+    "insufficient": "不足的 ",
+    "balance": "资产"
   },
   "mintHooks": {
-    "connectWallet": "Connect Wallet",
-    "insufficientInputAmount": "Insufficient input amount",
-    "invalidPair": "Invalid pair",
-    "enterAmount": "Enter an amount",
-    "insufficient": "Insufficient ",
+    "connectWallet": "连接钱包",
+    "insufficientInputAmount": "输入数量不足",
+    "invalidPair": "无效交易对",
+    "enterAmount": "输入金额",
+    "insufficient": "不足的 ",
     "balance": " balance"
   },
   "stakeHooks": {
-    "connectWallet": "Connect Wallet",
-    "enterAmount": "Enter an amount"
+    "connectWallet": "连接钱包",
+    "enterAmount": "输入金额"
   },
   "burnHooks": {
-    "connectWallet": "Connect Wallet",
-    "enterAmount": "Enter an amount"
+    "connectWallet": "连接钱包",
+    "enterAmount": "输入金额"
   }
 }
